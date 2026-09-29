@@ -1,0 +1,7 @@
+.cy-badge{display:inline-block;padding:.05em .5em;border-radius:.6em;font-size:.8em;font-weight:600;margin-right:.3em;white-space:nowrap}
+.cy-official{background:#1b5e20;color:#fff}
+.cy-case{background:#1565c0;color:#fff}
+.cy-hearsay{background:#ef6c00;color:#fff}
+.cy-opinion{background:#757575;color:#fff}
+.cy-stale{background:#fff3cd;color:#5c4400;padding:.5em 1em;text-align:center;font-size:.85em}
+.cy-topic-footer{font-size:.85em;color:var(--md-default-fg-color--light);margin-top:2em}
