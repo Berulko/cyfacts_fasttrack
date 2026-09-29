@@ -1,1 +1,13 @@
 {% extends "base.html" %}
+{% block header %}
+  {{ super() }}
+  <div id="cy-stale" class="cy-stale" data-snapshot="{{ config.extra.snapshot }}" hidden>
+    Снимок чата от {{ config.extra.snapshot }} старше двух месяцев — практика могла измениться.
+  </div>
+{% endblock %}
+{% block scripts %}
+  {{ super() }}
+  {% if config.extra.cf_token %}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ config.extra.cf_token }}"}'></script>
+  {% endif %}
+{% endblock %}

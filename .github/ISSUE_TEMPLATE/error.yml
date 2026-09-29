@@ -1,0 +1,26 @@
+name: Ошибка или устаревший факт
+description: Нашли неточность или практика изменилась — укажите тему и сообщение
+title: "[ошибка] "
+labels: [error]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Тема (адрес страницы)
+      placeholder: process-presence-days
+    validations:
+      required: true
+  - type: input
+    id: fact
+    attributes:
+      label: Заголовок факта или номер сообщения
+  - type: textarea
+    id: what
+    attributes:
+      label: Что не так
+    validations:
+      required: true
+  - type: input
+    id: proof
+    attributes:
+      label: Подтверждение (ссылка на сообщение или документ)
