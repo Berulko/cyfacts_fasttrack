@@ -36,6 +36,7 @@ extra_css:
   - stylesheets/cy.css
 extra_javascript:
   - javascripts/stale.js
+  - javascripts/open-anchor.js
 plugins:
   - search:
       lang: ru
