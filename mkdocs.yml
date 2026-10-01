@@ -3,6 +3,8 @@ site_description: Свод практики фаст-трека гражданс
 site_url: https://berulko.github.io/cyfacts_fasttrack/
 repo_url: https://github.com/Berulko/cyfacts_fasttrack
 edit_uri: ""
+exclude_docs: |
+  _generated/
 copyright: Содержимое — CC BY-SA 4.0 · код — MIT · не юридическая консультация
 theme:
   name: material
