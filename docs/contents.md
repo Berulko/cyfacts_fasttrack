@@ -376,7 +376,23 @@
     - 🟡 [Переход со Spouse Employee на Key Personnel: как считать 2 года](topics/m127-13-hse-company-certificate.md#q-29)
     - 🟡 [Нужно ли заверять трудовой договор в налоговой (tax department)](topics/m127-13-hse-company-certificate.md#q-30)
 
-- Фото, заверенные кинотархисом — *в работе*
+??? note "Фото, заверенные кинотархисом · 14 вопросов · 🟢 9 · 🟡 1 · ⚪ 4"
+    [Открыть тему](topics/m127-14-photos-community-leader.md)
+
+    - ⚪ [Что заверяет мухтарис/кинотархис, а что — суд](topics/m127-14-photos-community-leader.md#q-1)
+    - ⚪ [Можно ли заверить фото заодно с договором аренды](topics/m127-14-photos-community-leader.md#q-2)
+    - ⚪ [Нужна ли подпись мухтариса на чём-то, кроме фото](topics/m127-14-photos-community-leader.md#q-3)
+    - 🟢 [Мухтарис, кинотархис и certifying officer — кто есть кто](topics/m127-14-photos-community-leader.md#q-4)
+    - 🟢 [Как определить свой официальный район](topics/m127-14-photos-community-leader.md#q-5)
+    - 🟢 [Как найти своего кинотархиса](topics/m127-14-photos-community-leader.md#q-6)
+    - ⚪ [Где принимает кинотархис: есть ли у него адрес](topics/m127-14-photos-community-leader.md#q-7)
+    - 🟢 [Сколько занимает заверение фото у мухтариса](topics/m127-14-photos-community-leader.md#q-8)
+    - 🟢 [Что пишут на обороте заверенных фото, кроме печати](topics/m127-14-photos-community-leader.md#q-9)
+    - 🟢 [Можно ли заверять фото незадолго до подачи](topics/m127-14-photos-community-leader.md#q-10)
+    - 🟢 [Может ли мухтарис приехать заверить фото на дом](topics/m127-14-photos-community-leader.md#q-11)
+    - 🟢 [Печать мухтариса на фото долго не сохнет — что делать](topics/m127-14-photos-community-leader.md#q-12)
+    - 🟢 [Проверяют ли подлинность печати мухтариса при подаче](topics/m127-14-photos-community-leader.md#q-13)
+    - 🟡 [Нужен ли кинотархис именно своего района проживания](topics/m127-14-photos-community-leader.md#q-14)
 
 - Сбор 500 € — *в работе*
 
