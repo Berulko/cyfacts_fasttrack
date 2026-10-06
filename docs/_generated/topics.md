@@ -8,6 +8,7 @@
 | [Запись на подачу (слот)](topics/process-slot-civil-registry.md) | 44 | 6 | 34 | 4 | 2026-10-06 |
 | [День подачи](topics/process-submission-day.md) | 72 | 28 | 35 | 9 | 2026-10-06 |
 | [Анкета M127, заявления, подписанты, аффидевиты](topics/process-forms-statements.md) | 103 | 30 | 49 | 24 | 2026-10-06 |
+| [Вызов и собеседование](topics/process-interview-call.md) | 63 | 32 | 22 | 9 | 2026-10-06 |
 | [Сроки рассмотрения](topics/process-review-times.md) | 61 | 10 | 37 | 14 | 2026-10-06 |
 | [Семья: супруги и дети](topics/process-family-dependants.md) | 53 | 10 | 34 | 9 | 2026-10-06 |
 | [Переводы и апостиль](topics/process-translations-apostille.md) | 41 | 10 | 26 | 5 | 2026-10-06 |
