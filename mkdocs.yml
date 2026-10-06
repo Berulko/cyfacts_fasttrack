@@ -67,7 +67,7 @@ nav:
   - Процесс:
     - "Подсчёт дней присутствия (правило 90 дней, дата отсчёта)": topics/process-presence-days.md
     - "Запись на подачу (слот)": topics/process-slot-civil-registry.md
-    - "День подачи (в работе)": topics/process-submission-day.md
+    - "День подачи": topics/process-submission-day.md
     - "Анкета M127, заявления, подписанты, аффидевиты (в работе)": topics/process-forms-statements.md
     - "Вызов и собеседование (в работе)": topics/process-interview-call.md
     - "Сроки рассмотрения (в работе)": topics/process-review-times.md

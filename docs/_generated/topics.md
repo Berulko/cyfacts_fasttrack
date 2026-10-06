@@ -6,6 +6,7 @@
 | [Справка о компании (highly skilled)](topics/m127-13-hse-company-certificate.md) | 30 | 1 | 24 | 5 | 2026-10-06 |
 | [Подсчёт дней присутствия (правило 90 дней, дата отсчёта)](topics/process-presence-days.md) | 41 | 3 | 37 | 1 | 2026-10-06 |
 | [Запись на подачу (слот)](topics/process-slot-civil-registry.md) | 44 | 6 | 34 | 4 | 2026-10-06 |
+| [День подачи](topics/process-submission-day.md) | 72 | 28 | 35 | 9 | 2026-10-06 |
 | [Семья: супруги и дети](topics/process-family-dependants.md) | 53 | 10 | 34 | 9 | 2026-10-06 |
 | [Переводы и апостиль](topics/process-translations-apostille.md) | 41 | 10 | 26 | 5 | 2026-10-06 |
 
