@@ -15,6 +15,7 @@
 | [Финансовые средства](topics/m127-12-financial-resources.md) | 49 | 14 | 23 | 12 | 2026-10-06 |
 | [Справка о компании (highly skilled)](topics/m127-13-hse-company-certificate.md) | 30 | 1 | 24 | 5 | 2026-10-06 |
 | [Фото, заверенные кинотархисом](topics/m127-14-photos-community-leader.md) | 14 | 9 | 1 | 4 | 2026-10-06 |
+| [Сбор 500 €](topics/m127-15-fee-500.md) | 10 | 4 | 3 | 3 | 2026-10-06 |
 | [Подсчёт дней присутствия (правило 90 дней, дата отсчёта)](topics/process-presence-days.md) | 41 | 3 | 37 | 1 | 2026-10-06 |
 | [Запись на подачу (слот)](topics/process-slot-civil-registry.md) | 44 | 6 | 34 | 4 | 2026-10-06 |
 | [День подачи](topics/process-submission-day.md) | 72 | 28 | 35 | 9 | 2026-10-06 |
