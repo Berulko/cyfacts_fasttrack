@@ -10,6 +10,7 @@
 | [Запись въездов и выездов](topics/m127-07-travel-record.md) | 34 | 9 | 21 | 4 | 2026-10-06 |
 | [Объявления в газете](topics/m127-08-newspaper-announcements.md) | 15 | 7 | 6 | 2 | 2026-10-06 |
 | [Греческий язык](topics/m127-09-greek-language.md) | 33 | 9 | 12 | 12 | 2026-10-06 |
+| [Экзамен по основам политической и общественной реальности](topics/m127-10-political-social-exam.md) | 17 | 1 | 7 | 9 | 2026-10-06 |
 | [Подтверждение проживания](topics/m127-11-proof-of-residence.md) | 33 | 8 | 21 | 4 | 2026-10-06 |
 | [Финансовые средства](topics/m127-12-financial-resources.md) | 49 | 14 | 23 | 12 | 2026-10-06 |
 | [Справка о компании (highly skilled)](topics/m127-13-hse-company-certificate.md) | 30 | 1 | 24 | 5 | 2026-10-06 |
