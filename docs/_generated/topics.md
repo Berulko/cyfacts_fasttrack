@@ -4,6 +4,7 @@
 | [Свидетельство о рождении](topics/m127-01-birth-certificate.md) | 25 | 4 | 18 | 3 | 2026-10-06 |
 | [Свидетельство о браке / партнёрства](topics/m127-04-marriage-certificate.md) | 18 | 5 | 11 | 2 | 2026-10-06 |
 | [Запись въездов и выездов](topics/m127-07-travel-record.md) | 34 | 9 | 21 | 4 | 2026-10-06 |
+| [Греческий язык](topics/m127-09-greek-language.md) | 33 | 9 | 12 | 12 | 2026-10-06 |
 | [Подтверждение проживания](topics/m127-11-proof-of-residence.md) | 33 | 8 | 21 | 4 | 2026-10-06 |
 | [Финансовые средства](topics/m127-12-financial-resources.md) | 49 | 14 | 23 | 12 | 2026-10-06 |
 | [Справка о компании (highly skilled)](topics/m127-13-hse-company-certificate.md) | 30 | 1 | 24 | 5 | 2026-10-06 |
