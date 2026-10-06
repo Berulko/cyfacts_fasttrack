@@ -49,7 +49,7 @@ nav:
   - Как сделано: how.md
   - Документы M127:
     - "1. Свидетельство о рождении": topics/m127-01-birth-certificate.md
-    - "2. Справка о несудимости (в работе)": topics/m127-02-criminal-record.md
+    - "2. Справка о несудимости": topics/m127-02-criminal-record.md
     - "3. Вид на жительство (в работе)": topics/m127-03-residence-permit.md
     - "4. Свидетельство о браке / партнёрства": topics/m127-04-marriage-certificate.md
     - "5. Паспорт": topics/m127-05-passport.md
