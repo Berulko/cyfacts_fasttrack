@@ -194,7 +194,24 @@
     - 🟡 [Отели на севере, принадлежавшие греко-киприотам](topics/m127-07-travel-record.md#q-33)
     - 🟡 [Нужно ли расписывать все 10 лет въездов-выездов](topics/m127-07-travel-record.md#q-34)
 
-- Объявления в газете — *в работе*
+??? note "Объявления в газете · 15 вопросов · 🟢 7 · 🟡 6 · ⚪ 2"
+    [Открыть тему](topics/m127-08-newspaper-announcements.md)
+
+    - 🟢 [Сколько экземпляров газеты нужно на подачу](topics/m127-08-newspaper-announcements.md#q-1)
+    - 🟢 [Где и когда покупать газету (периптеро)](topics/m127-08-newspaper-announcements.md#q-2)
+    - 🟡 [Что делать, если не успели купить бумажную газету вовремя](topics/m127-08-newspaper-announcements.md#q-3)
+    - 🟢 [Как заказать публикацию через Politis](topics/m127-08-newspaper-announcements.md#q-4)
+    - 🟡 [Как заказать публикацию через Cyprus Mail](topics/m127-08-newspaper-announcements.md#q-5)
+    - 🟢 [Сколько времени занимает подготовка объявления](topics/m127-08-newspaper-announcements.md#q-6)
+    - 🟡 [Нужны оригиналы объявления или достаточно копий](topics/m127-08-newspaper-announcements.md#q-7)
+    - 🟡 [Есть ли официальный срок действия объявления («3 месяца»)](topics/m127-08-newspaper-announcements.md#q-8)
+    - 🟡 [Нужно ли давать объявление не раньше чем за месяц до подачи](topics/m127-08-newspaper-announcements.md#q-9)
+    - ⚪ [Обязательно ли объявление в газете для пакета M127](topics/m127-08-newspaper-announcements.md#q-10)
+    - 🟡 [Сколько раз и в одной ли газете публиковать объявление](topics/m127-08-newspaper-announcements.md#q-11)
+    - 🟢 [Нужны ли новые объявления при переподаче на фаст-трек](topics/m127-08-newspaper-announcements.md#q-12)
+    - ⚪ [Какой адрес указывать в объявлении](topics/m127-08-newspaper-announcements.md#q-13)
+    - 🟢 [Нужны «front pages» или подойдут развороты и вырезки](topics/m127-08-newspaper-announcements.md#q-14)
+    - 🟢 [Как офицер принимает газетную страницу на подаче](topics/m127-08-newspaper-announcements.md#q-15)
 
 ??? note "Греческий язык · 33 вопроса · 🟢 9 · 🟡 12 · ⚪ 12"
     [Открыть тему](topics/m127-09-greek-language.md)
