@@ -1,5 +1,5 @@
 site_name: cyfacts_fasttrack
-site_description: Свод практики фаст-трека гражданства Кипра по чату @cyfasttrack — с опорой на источники
+site_description: Свод практики фаст-трека гражданства Кипра по чатам @cyfasttrack и @cylaw — с опорой на источники
 site_url: https://berulko.github.io/cyfacts_fasttrack/
 repo_url: https://github.com/Berulko/cyfacts_fasttrack
 edit_uri: ""
@@ -46,6 +46,7 @@ plugins:
 nav:
   - Главная: index.md
   - Содержание: contents.md
+  - Как сделано: how.md
   - Документы M127:
     - "1. Свидетельство о рождении": topics/m127-01-birth-certificate.md
     - "2. Справка о несудимости (в работе)": topics/m127-02-criminal-record.md
@@ -74,7 +75,7 @@ nav:
     - "Семья: супруги и дети": topics/process-family-dependants.md
     - "Переводы и апостиль": topics/process-translations-apostille.md
 extra:
-  snapshot: "2026-09-25"
+  snapshot: "2026-10-06"
   cf_token: ""
-  feedback_form_url: ""
+  feedback_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeGYmvG3rnRxddyJs1jAgbfZTfd860MhnsdWzYx64G4McLrhg/viewform"
 # <<< generated
