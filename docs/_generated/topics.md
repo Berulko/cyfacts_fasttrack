@@ -4,6 +4,7 @@
 | [Свидетельство о рождении](topics/m127-01-birth-certificate.md) | 25 | 4 | 18 | 3 | 2026-10-06 |
 | [Свидетельство о браке / партнёрства](topics/m127-04-marriage-certificate.md) | 18 | 5 | 11 | 2 | 2026-10-06 |
 | [Запись въездов и выездов](topics/m127-07-travel-record.md) | 34 | 9 | 21 | 4 | 2026-10-06 |
+| [Финансовые средства](topics/m127-12-financial-resources.md) | 49 | 14 | 23 | 12 | 2026-10-06 |
 | [Справка о компании (highly skilled)](topics/m127-13-hse-company-certificate.md) | 30 | 1 | 24 | 5 | 2026-10-06 |
 | [Подсчёт дней присутствия (правило 90 дней, дата отсчёта)](topics/process-presence-days.md) | 41 | 3 | 37 | 1 | 2026-10-06 |
 | [Запись на подачу (слот)](topics/process-slot-civil-registry.md) | 44 | 6 | 34 | 4 | 2026-10-06 |
