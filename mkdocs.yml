@@ -49,6 +49,7 @@ nav:
   - Главная: index.md
   - Что нового: news.md
   - Содержание: contents.md
+  - Полезные ссылки: links.md
   - Как сделано: how.md
   - Документы M127:
     - "1. Свидетельство о рождении": topics/m127-01-birth-certificate.md
