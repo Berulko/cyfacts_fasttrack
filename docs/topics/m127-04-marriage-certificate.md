@@ -1,6 +1,6 @@
 <!-- Сгенерировано tg.py publish из приватной базы; правки перезаписываются. Ошибку — через «Сообщить об ошибке» внизу страницы. -->
 # Свидетельство о браке / партнёрства
-> Проверено по первоисточнику: 2026-10-06 · углублённо: 2026-10-06 · снимок чата: 2026-10-06
+> Проверено по первоисточнику: 2026-11-04 · углублённо: 2026-11-04 · снимок чата: 2026-10-30
 
 ## Что это
 
@@ -277,4 +277,4 @@
 
 ---
 
-<div class="cy-topic-footer" markdown>*Проверено: 2026-10-06 · углублённо: 2026-10-06* · [Сообщить об ошибке](https://github.com/Berulko/cyfacts_fasttrack/issues/new?template=error.yml&topic=m127-04-marriage-certificate) · [Форма без GitHub](https://docs.google.com/forms/d/e/1FAIpQLSeGYmvG3rnRxddyJs1jAgbfZTfd860MhnsdWzYx64G4McLrhg/viewform?usp=pp_url&entry.580373805=https%3A%2F%2Fberulko.github.io%2Fcyfacts_fasttrack%2Ftopics%2Fm127-04-marriage-certificate%2F)</div>
+<div class="cy-topic-footer" markdown>*Проверено: 2026-11-04 · углублённо: 2026-11-04* · [Сообщить об ошибке](https://github.com/Berulko/cyfacts_fasttrack/issues/new?template=error.yml&topic=m127-04-marriage-certificate) · [Форма без GitHub](https://docs.google.com/forms/d/e/1FAIpQLSeGYmvG3rnRxddyJs1jAgbfZTfd860MhnsdWzYx64G4McLrhg/viewform?usp=pp_url&entry.580373805=https%3A%2F%2Fberulko.github.io%2Fcyfacts_fasttrack%2Ftopics%2Fm127-04-marriage-certificate%2F)</div>
